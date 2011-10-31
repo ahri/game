@@ -13,8 +13,10 @@ Auto-leveled opponents
 Stuff the game might have:
 
 Windows/Mac/Linux/Android support
-Built off an existing open source game engine (http://orx-project.org ?)
-    http://www.scirra.com is interesting but not open (enough), and Windows only
+Built off an existing open source game engine, options:
+    http://orx-project.org/
+    http://getmoai.com/moai/
+    http://libgdx.badlogicgames.com/
 Replayability
 Roguelike death frequency (may reconsider)
 Easy to quit/continue_later
